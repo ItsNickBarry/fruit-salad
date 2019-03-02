@@ -18,3 +18,7 @@ Run `install.sh` or add the contents of `set_fruit.sh` to your `.bashrc` file ma
 Remove the lines from your `.bashrc` file which match the contents of `set_fruit.sh`.
 
 ![screenshot](./screenshot.gif)
+
+## See Also
+
+[Lunation](https://github.com/itsnickbarry/lunation)
