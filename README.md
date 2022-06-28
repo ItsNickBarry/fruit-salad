@@ -6,7 +6,7 @@ This should be compatible with other modifications to the prompt; only the end i
 
 The `AVAILABLE_FRUITS` and `CURRENT_FRUIT` variables are assigned; if you rely on either of these, you might have some issues.
 
-Note: not to be confused with `CURRANT_FRUIT`.
+> **Note**: `CURRENT_FRUIT` is not to be confused with `CURRANT_FRUIT`.
 
 ## Vegetables?
 Replace the string assigned to `AVAILABLE_FRUITS` in your `.bashrc` with vegetables of your choice.
